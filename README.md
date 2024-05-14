@@ -3,6 +3,8 @@
 [![Package Version](https://img.shields.io/hexpm/v/gleaf)](https://hex.pm/packages/gleaf)
 [![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/gleaf/)
 
+Gleam apply function
+
 ```sh
 gleam add gleaf
 ```
