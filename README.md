@@ -12,7 +12,8 @@ gleam add gleaf
 import gleaf
 
 pub fn main() {
-  // TODO: An example of the project in use
+  [1, 2, 3]
+  |> gleaf.apply(fn(a, b, c) { a + b + c }) // 6
 }
 ```
 
