@@ -5,6 +5,11 @@
 
 Gleam apply function
 
+### ❗ Disclaimer ❗
+
+It's type unsafe. Returned type will be coerced and it not soundness. Use it on your own risk.
+
+
 ```sh
 gleam add gleaf
 ```
